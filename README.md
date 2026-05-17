@@ -1,17 +1,23 @@
-                                                                                                                                                                     
 <table>                                                                                                                                                                     
      <tr>                                                                                                                                                                      
-       <td width="320" valign="top">                                                                                                                                           
-         <img src="./2k pose_202605172102.jpeg" width="320" alt="Overlord style vertical portrait" />                                                                        
+       <td width="260" valign="top">                                                                                                                                           
+         <img src="./2k pose_202605172102.jpeg" width="%100" alt="dark fantasy profile art" />                                                                                     
        </td>                                                                                                                                                                   
        <td valign="top">                                                                                                                                                       
-                                                                                                                                                                   
-   ### Focus                                                                                                                                                                   
-   - Backend systems                                                                                                                                                           
-   - Automation                                                                                                                                                                
+                                                                                                                                                                               
+   # -------------------------------------                                                                                                                                                                  
+                                                                                                                                                                               
+   Building tools and products with a quieter kind of ambition.                                                                                                                
+                                                                                                                                                                               
+   Drawn to the kind of software people keep using without thinking twice.                                                                                                                                                                           
+   ## Current focus                                                                                                                                                            
+                                                                                                                                                                               
+   - Small products with real utility                                                                                                                                          
+   - Backend and systems fundamentals                                                                                                                                          
+   - Developer tooling                                                                                                                                                         
    - AI-assisted workflows                                                                                                                                                     
-   - Tooling                                                                                                                                                                   
-   - Design taste in developer branding                                                                                                                                                      
-       </td>                                                                                                                                                                   
-     </tr>                                                                                                                                                                     
-   </table>
+   - Turning ideas into usable things                                                                                                                                                                                                                                                                                                       
+                                                                                                                    
+        </td>                                                                                                                                                                   
+      </tr>
+</table>
