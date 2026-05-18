@@ -6,10 +6,7 @@
        <td valign="top">                                                                                                                                                       
                                                                                                                                                                                
    # -------------------------------------                                                                                                                                                                  
-                                                                                                                                                                               
-   Building tools and products with a quieter kind of ambition.                                                                                                                
-                                                                                                                                                                               
-   Drawn to the kind of software people keep using without thinking twice.                                                                                                                                                                           
+                                                                                                                                                                                                                                                                                                                                                          
    ## Current focus                                                                                                                                                            
                                                                                                                                                                                
    - Small things with real utility                                                                                                                                          
